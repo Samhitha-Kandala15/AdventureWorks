@@ -3,13 +3,13 @@
 
 ## Problem Statement
 The management team tracks KPIs (sales, revenue, profit, returns), compares
-regional performance, analyzes product-level trends, and identifies high-value customers.
+regional performance, analyses product-level trends, and identifies high-value customers.
 
 The Objective is to:
 - Connect and transform the raw data
 - Build a relational data model
 - Create calculated columns and measures with DAX
-- Design an interactive dashboard to visualize the data
+- Design an interactive dashboard to visualise the data
 
 
 # Snapshot of Dashboard
